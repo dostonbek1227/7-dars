@@ -14,7 +14,7 @@ export default function Now() {
     </div>
    <div className='hoo'>
       <div className='hoobank'>
-        <img className='bank' src="img/logo.png" alt="" />
+        <img className='bank' src="./img/logo.png" alt="" />
         <p className='footer-p'>A new way to make the payments easy, reliable and secure.</p>
       </div>
       <div className='ul'>

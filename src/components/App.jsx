@@ -7,7 +7,7 @@ import Paypal from "./Paypal";
 import Card from "./Card";
 import People from "./People";
 import Box from "./Box";
-import Now from "../Now";
+import Now from "./Now";
 export default function App() {
   return (
     <div>

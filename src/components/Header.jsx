@@ -5,7 +5,7 @@ export default function Header() {
     <div className="header-content">
       <div className="header-text">
         <span className="header-p">
-          <img  src="img/foiz.png" alt="" /> 20%     
+          <img  src="./img/foiz.png" alt="" /> 20%     
           <span className=" opasity bg-color"> DISCOUNT FOR </span>1 MONTH
           <span className=" opasity bg-color"> ACCOUNT</span>
         </span>
@@ -21,7 +21,7 @@ export default function Header() {
           Get <br /> Started
         </span>
       </div>
-      <img className="header-img" src="img/header.png" alt="" />    
+      <img className="header-img" src="./img/header.png" alt="" />    
     </div>
   );
 }

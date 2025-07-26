@@ -14,5 +14,5 @@ export default function Card() {
           <img className='img3'src="./img/pay-method.png" alt="" />
        </div>
     </div>
-  )
+  );
 }
