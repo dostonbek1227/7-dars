@@ -9,9 +9,8 @@ export default function Card() {
          <button className='button-b' >Get Started</button>
        </div> 
        <div className='card img'>
-        <img className='img1'src="./img/scan-credit-crds.png" alt="" />
-          <img className='img2'src="./img/online analysis.png" alt="" />
-          <img className='img3'src="./img/pay-method.png" alt="" />
+        <img className='img1'src="./img/rasm3.png" alt="" />
+       
        </div>
     </div>
   );

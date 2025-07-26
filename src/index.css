@@ -243,23 +243,12 @@ margin-top: 24px;
     display: flex;
     flex-wrap: wrap;
     margin-top: 198px;
-    position: relative;
 }
 .img1{
     width: 191px;
     height: 158px;
-    position: absolute;
 }
-.img2{
-    width: 256px;
-    height: 238px;
-    position: absolute;
-}
-.img3{
-    width: 262px;
-    height: 140px;
-    position: absolute;
-}
+
 .c-content{
     display: flex;
 }
